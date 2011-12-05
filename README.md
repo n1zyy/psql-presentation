@@ -2,6 +2,8 @@
 
 This is a quick [showoff](https://github.com/schacon/showoff/) presentation on the basics of using Postgres and the psql command-line tool, meant for people who are somewhat familiar with MySQL. It doesn't dive terribly deep.
 
+You probably just want to [view the presentation](http://n1zyy.github.com/psql-presentation), though if you wanted to enhance it you could clone the repo.
+
 ## Other Resources ##
 
 For a deeper dive, you might like to check out:
